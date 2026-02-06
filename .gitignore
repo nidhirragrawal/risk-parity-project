@@ -16,5 +16,4 @@ venv/
 Jupyter temporary files
 *.log
 
-Output files (optional: if you don't want plots uploaded)
-outputs/
+
