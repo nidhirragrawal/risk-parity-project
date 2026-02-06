@@ -94,7 +94,10 @@ The strategies are evaluated using:
  Install dependencies
 ```bash
 pip install -r requirements.txt
-
-
+```
 ## Author
 Nidhirr Agrawal
+
+
+
+
