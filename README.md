@@ -1,5 +1,10 @@
 Leveraged Risk Parity Portfolio Backtest
 
+## Equity Curve Comparison
+
+![Equity Curve](outputs/equity_curve_logscale.png)
+
+
  Overview
 This project implements and backtests a multi-asset portfolio strategy using:
 
@@ -89,3 +94,7 @@ The strategies are evaluated using:
  Install dependencies
 ```bash
 pip install -r requirements.txt
+
+
+## Author
+Nidhirr Agrawal
